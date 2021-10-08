@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>37.jpg</filename>
+	<path>C:\Users\Muhammad Saad\Desktop\dataset\37.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1488</width>
+		<height>1984</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stain</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1078</xmin>
+			<ymin>5</ymin>
+			<xmax>1488</xmax>
+			<ymax>1151</ymax>
+		</bndbox>
+	</object>
+</annotation>

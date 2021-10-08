@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hole_dataset</folder>
+	<filename>a00080.jpg</filename>
+	<path>C:\Users\Muhammad Saad\Desktop\hole_dataset\a00080.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>169</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>28</ymin>
+			<xmax>153</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

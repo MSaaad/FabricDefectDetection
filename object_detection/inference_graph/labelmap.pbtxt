@@ -1,0 +1,8 @@
+item {
+  id:1
+  name:'Stain'
+}
+item {
+  id:2
+  name:'Hole'
+}
